@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="boothr-web" />
+        <module name="mailserver" />
+        <module name="boothr-mapper" />
+        <module name="boothr-model" />
+        <module name="boothr-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="boothr" target="1.8" />
+      <module name="boothr-mapper" target="1.8" />
+      <module name="boothr-model" target="1.8" />
+      <module name="boothr-service" target="1.8" />
+      <module name="boothr-web" target="1.8" />
+      <module name="boothrserver" target="1.8" />
+      <module name="mailserver" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="boothr-mapper" options="-parameters" />
+      <module name="boothr-model" options="-parameters" />
+      <module name="boothr-service" options="-parameters" />
+      <module name="boothr-web" options="-parameters" />
+      <module name="mailserver" options="-parameters" />
+    </option>
+  </component>
+</project>

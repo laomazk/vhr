@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/boothr.iml" filepath="$PROJECT_DIR$/boothr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boothrserver/boothr-mapper/boothr-mapper.iml" filepath="$PROJECT_DIR$/boothrserver/boothr-mapper/boothr-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boothrserver/boothr-model/boothr-model.iml" filepath="$PROJECT_DIR$/boothrserver/boothr-model/boothr-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boothrserver/boothr-service/boothr-service.iml" filepath="$PROJECT_DIR$/boothrserver/boothr-service/boothr-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boothrserver/boothr-web/boothr-web.iml" filepath="$PROJECT_DIR$/boothrserver/boothr-web/boothr-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boothrserver/boothrserver.iml" filepath="$PROJECT_DIR$/boothrserver/boothrserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mailserver/mailserver.iml" filepath="$PROJECT_DIR$/mailserver/mailserver.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3d4be557-ce0b-4920-bfe0-8ee14cf9301f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/boothrserver/boothr-service/src/main/java/com/magic/vhr/service/MenuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/boothrserver/boothr-service/src/main/java/com/magic/vhr/service/MenuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boothrserver/boothr-service/target/classes/com/magic/vhr/service/MenuService.class" beforeDir="false" afterPath="$PROJECT_DIR$/boothrserver/boothr-service/target/classes/com/magic/vhr/service/MenuService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/boothrserver/boothr-web/src/main/java/com/magic/vhr/config/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/boothrserver/boothr-web/src/main/java/com/magic/vhr/config/SecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/classes/META-INF/mailserver.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/classes/com/magic/MailserverApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/classes/com/magic/receiver/MailReceiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/classes/templates/mail.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mailserver/target/test-classes/com/magic/MailserverApplicationTests.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:\develop\maven-3.5.4" />
+        <option name="userSettingsFile" value="F:\develop\maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-DarchetypeCatalog=local" />
+  </component>
+  <component name="ProjectId" id="1j33QW7qfhYx9OVl0ZIksIycMSG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.boothr-web">
+    <configuration name="MailserverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mailserver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.magic.MailserverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="boothr-web" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boothr-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.magic.vhr.BoothrApplication" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.boothr-web" />
+      <item itemvalue="Spring Boot.MailserverApplication" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3d4be557-ce0b-4920-bfe0-8ee14cf9301f" name="Default Changelist" comment="" />
+      <created>1603018931368</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603018931368</updated>
+      <workItem from="1603018942095" duration="8185000" />
+      <workItem from="1603065634170" duration="1163000" />
+      <workItem from="1603068676294" duration="71000" />
+      <workItem from="1603068787454" duration="97000" />
+      <workItem from="1603068936634" duration="21540000" />
+      <workItem from="1603158621061" duration="5591000" />
+      <workItem from="1604203874612" duration="1585000" />
+      <workItem from="1604301028781" duration="3227000" />
+      <workItem from="1604317991070" duration="1901000" />
+      <workItem from="1604500515322" duration="1498000" />
+      <workItem from="1610459670260" duration="1093000" />
+      <workItem from="1613380763656" duration="1514000" />
+      <workItem from="1613406294954" duration="340000" />
+      <workItem from="1613437885077" duration="671000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
